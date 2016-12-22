@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "news-web-part",
+    "libraryId": "7ad7ba9d-d6a6-411d-9e38-f77e63e7f718",
+    "framework": "none"
+  }
+}

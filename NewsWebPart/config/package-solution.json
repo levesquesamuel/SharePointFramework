@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "news-web-part-client-side-solution",
+    "id": "7ad7ba9d-d6a6-411d-9e38-f77e63e7f718",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/news-web-part.spapp"
+  }
+}
